@@ -13,6 +13,7 @@
 
 I'm a **Systems Engineering student at Universidad El Bosque** (Bogotá, Colombia), currently in the final stage of my degree. I enjoy building software that solves real problems, from **cross-platform mobile apps with React Native** to **desktop and web systems backed by relational databases**.
 
+- 🎓 Currently building my **capstone project**: a web + mobile workload management system for a real company in the US
 - 📱 Building mobile apps with **React Native** and testing them in **Android Studio**
 - ☕ Solid background in **Java**, **Python** and **SQL / Oracle**
 - 🤖 Passionate about **Artificial Intelligence** and technology research
@@ -42,6 +43,8 @@ I'm a **Systems Engineering student at Universidad El Bosque** (Bogotá, Colombi
 **Frameworks & Databases**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
@@ -50,6 +53,24 @@ I'm a **Systems Engineering student at Universidad El Bosque** (Bogotá, Colombi
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 🔭 Currently Working On
+
+### 🏗️ Workload Management and Labor Planning System — *Capstone Project (2026-1 – Present)*
+
+Team capstone project at Universidad El Bosque for **Custom Engineering Heating and Cooling**, an HVAC company in Michigan, USA. We're replacing the huge Excel workbook they use to track worked hours, job assignments and project progress with a proper system.
+
+- 🖥️ **Web panel** for the administrator and 📱 **mobile app** for employees, both connected to the same backend
+- 🧩 **Modular monolith** organized by bounded contexts, with real-time push notifications (Outbox pattern)
+- 🔄 Built with **Scrum**, validating each sprint directly with the client
+
+`Java` `Spring Boot` `React` `React Native` `PostgreSQL` `REST API` `WebSocket`
+
+> 🔒 Private repository (client project)
 
 ---
 
